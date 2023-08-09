@@ -1,6 +1,7 @@
 #import csv module for reading dataset sets of comma seperated values (csv)
 #using dataset from https://www.kaggle.com/datasets/shubhamsadawarti/instagram-analysis
-# dataset created by SHUBHAM SADAWARTI for instagram analysis
+# dataset created by SHUBHAM SADAWARTI on kaggle for instagram analysis
+# it was implemented in this project
 
 import csv
 
